@@ -1,0 +1,22 @@
+{
+    "mailconfig": [
+        {
+            "env": "dev",
+            "config": {
+                "username": "maribelajardev@gmail.com",
+                "password": "maribelajardev123",
+                "host": "smtp.gmail.com",
+                "port": "465"
+            }
+        },
+        {
+            "env": "prod",
+            "config": {
+                "username": "maribelajardev@gmail.com",
+                "password": "maribelajardev123",
+                "host": "smtp.gmail.com",
+                "port": "465"
+            }
+        }
+    ]
+}

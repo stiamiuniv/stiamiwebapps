@@ -1,0 +1,22 @@
+{
+    "config": [
+        {
+            "env": "dev",
+            "config": {
+                "cloud_name": "dzzp8z3ad",
+                "api_key": "983752245359555",
+                "api_secret": "RX4lSH37YHn4dVqhRT23wSvfDaQ",
+                "environment_variable": "CLOUDINARY_URL=cloudinary://983752245359555:RX4lSH37YHn4dVqhRT23wSvfDaQ@dzzp8z3ad"
+            }
+        },
+        {
+            "env": "prod",
+             "config": {
+                "cloud_name": "dzzp8z3ad",
+                "api_key": "983752245359555",
+                "api_secret": "RX4lSH37YHn4dVqhRT23wSvfDaQ",
+                "environment_variable": "CLOUDINARY_URL=cloudinary://983752245359555:RX4lSH37YHn4dVqhRT23wSvfDaQ@dzzp8z3ad"
+            }
+        }
+    ]
+}

@@ -23,7 +23,7 @@
     </properties>
 	
 	<modules>
-        <module>frontend</module>
-        <module>backend</module>
+        <module>frontend-web</module>
+        <module>backend-web</module>
     </modules>
 </project>
